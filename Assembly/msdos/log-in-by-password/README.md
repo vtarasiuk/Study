@@ -10,6 +10,8 @@ To compile the assembly programs, use the make.bat script. Make sure you have in
 By default, it compiles main.asm, so you can just run  
 `make.bat`
 
+Do not forget to move the file you want to compile into make.bat directory
+
 ### Hex Viewer
 
 The hex viewer program allows you to view the contents of binary files in a hexadecimal format.
